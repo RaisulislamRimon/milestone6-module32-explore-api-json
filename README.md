@@ -9,3 +9,6 @@
 - - javascript object notation (json)
 - - JSON.stringify() => convert from object to string
 - - JSON.parse() => convert from string to object
+- 32-3 JSON placeholder, GET data, display data on UI
+- - https://jsonplaceholder.typicode.com/
+- -
