@@ -6,4 +6,5 @@
 - - what is an api?
 - - https://www.youtube.com/watch?v=s7wmiS2mSXY
 - 32-2 Intro to JSON, JSON Structure, parse, stringify
+- - javascript object notation (json)
 - -
