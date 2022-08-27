@@ -10,6 +10,7 @@
 - - JSON.stringify() => convert from object to string
 - - JSON.parse() => convert from string to object
 - 32-3 JSON placeholder, GET data, display data on UI
+- - fetch() => fetch data from a url
 - - https://jsonplaceholder.typicode.com/
 - 32-4 Load more data, more APIs, send data to function
 - 32-5 Dynamically display loaded data on your website
@@ -26,3 +27,4 @@
 - - http status codes
 - - https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 - 32-9 Module Summary and two homeworks
+- - GET vs POST request
