@@ -11,4 +11,5 @@
 - - JSON.parse() => convert from string to object
 - 32-3 JSON placeholder, GET data, display data on UI
 - - https://jsonplaceholder.typicode.com/
+- 32-4 Load more data, more APIs, send data to function
 - -
