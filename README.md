@@ -14,4 +14,11 @@
 - 32-4 Load more data, more APIs, send data to function
 - 32-5 Dynamically display loaded data on your website
 - 32-6 Load posts and display on the website with CSS
--
+- 32-7 GET, POST, PATCH, DELETE, CRUD, GET Vs POST
+- - GET
+- - POST
+- - PATCH
+- - DELETE
+- - CRUD
+- - GET Vs POST
+- 32-8 Debug API, Network tab,Status code, headers, bad API
