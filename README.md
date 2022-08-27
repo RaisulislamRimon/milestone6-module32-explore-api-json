@@ -22,3 +22,7 @@
 - - CRUD
 - - GET Vs POST
 - 32-8 Debug API, Network tab,Status code, headers, bad API
+- - go to network tab in google chrome browser and see the result
+- - http status codes
+- - https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+- 32-9 Module Summary and two homeworks

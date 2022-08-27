@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Posts</title>
+    <!-- bootstrap cdn -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx"
+      crossorigin="anonymous"
+    />
+    <!-- css  -->
+    <style>
+      section {
+        /* display: flex;
+        justify-content: center;
+        align-items: center; */
+        width: 75%;
+        margin: 0 auto;
+      }
+      .post {
+        background-color: cyan;
+        /* width: 75%; */
+        /* text-align: center; */
+        /* border: 1px solid gray; */
+        color: black;
+        border-radius: 10px;
+        padding: 10px;
+        margin: 30px 30px;
+        box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.75);
+      }
+      .post:hover {
+        transition: 0.5s;
+        transform: scale(1.1);
+      }
+    </style>
+  </head>
+  <body>
+    <header
+      class="container text-center bg-primary text-white p-3 rounded mt-2"
+    >
+      <h1>Display All Posts</h1>
+      <h3>All posts are here</h3>
+    </header>
+    <main>
+      <section>
+        <div id="posts-container"></div>
+      </section>
+    </main>
+
+    <!-- bootstrap cdn -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa"
+      crossorigin="anonymous"
+    ></script>
+    <!-- javascript -->
+    <script src="js/6 posts.js"></script>
+  </body>
+</html>
