@@ -12,4 +12,6 @@
 - 32-3 JSON placeholder, GET data, display data on UI
 - - https://jsonplaceholder.typicode.com/
 - 32-4 Load more data, more APIs, send data to function
-- -
+- 32-5 Dynamically display loaded data on your website
+- 32-6 Load posts and display on the website with CSS
+-
